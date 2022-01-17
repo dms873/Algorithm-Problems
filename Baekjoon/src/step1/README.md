@@ -4,5 +4,7 @@
 | :---: | :--------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 2557 | Hello World         | [문제주소](https://www.acmicpc.net/problem/2557)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step1/HelloWorld.java) |
 | 10718 | We love kriii      | [문제주소](https://www.acmicpc.net/problem/10718) | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step1/WeLoveKriii.java) |
+| 10171 | 고양이         | [문제주소](https://www.acmicpc.net/problem/10171)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step1/%EA%B3%A0%EC%96%91%EC%9D%B4.java) |
+| 10172 | 개      | [문제주소](https://www.acmicpc.net/problem/10172) | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step1/%EA%B0%9C.java) |
 
 ---
