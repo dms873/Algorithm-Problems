@@ -31,7 +31,6 @@ public class SpeedAplusB {
 		// String형으로 입력받은 문자열숫자를 Integer로 형변환 해준 후 int형 변수 T에 담아준다.(자동형변환)
 		int T = Integer.parseInt(br.readLine());
 		
-		
 		for(int i = 0; i < T; i++) {
 			// 해당 줄 전체를 String으로 입력 받는다.
 			String s = br.readLine();
