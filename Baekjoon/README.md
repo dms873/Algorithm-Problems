@@ -4,8 +4,8 @@
 
 ## 단계별로 풀어보기
 - [STEP 1 : 입출력과 사칙연산](https://github.com/dms873/Algorithm-Problems/tree/master/Baekjoon/src/step1)
-- [STEP 2 : if문](https://github.com/dms873/Algorithm-Problems/tree/master/Baekjoon/src/step2)
-- [STEP 3 : for문]()
+- [STEP 2 : if문]()
+- [STEP 3 : for문](https://github.com/dms873/Algorithm-Problems/tree/master/Baekjoon/src/step3)
 - [STEP 4 : while문]()
 
 ## 문제 리스트 표시 규칙
