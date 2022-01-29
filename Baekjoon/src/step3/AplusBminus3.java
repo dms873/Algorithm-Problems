@@ -10,7 +10,7 @@ public class AplusBminus3 {
 	* DATE: 2022-01-29
 	* AUTHOR: dms873
 	*
-	* URL: https://www.acmicpc.net/problem/2739
+	* URL: https://www.acmicpc.net/problem/10950
 	*
 	* COMMENT: for문을 이용하여 반복 시켜줌
 	**/
