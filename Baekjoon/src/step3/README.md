@@ -7,6 +7,7 @@
 | 8393 | 합         | [문제주소](https://www.acmicpc.net/problem/8393)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/Sum.java) |
 | 2557 | 빠른 A+B         | [문제주소](https://www.acmicpc.net/problem/15552)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/SpeedAplusB.java) |
 | 2741 | N 찍기         | [문제주소](https://www.acmicpc.net/problem/2741)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/N.java) |
+| 2742 | 기찍 N         | [문제주소](https://www.acmicpc.net/problem/2742)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/Nreverse.java) |
 
 
 
