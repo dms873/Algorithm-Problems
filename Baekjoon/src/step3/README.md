@@ -11,6 +11,7 @@
 | 11021 | A+B - 7         | [문제주소](https://www.acmicpc.net/problem/11021)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/AplusBminus7.java) |
 | 11022 | A+B - 8         | [문제주소](https://www.acmicpc.net/problem/11022)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/AplusBminus8.java) |
 | 2438 | 별찍기 - 1         | [문제주소](https://www.acmicpc.net/problem/2438)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/Star1.java) |
+| 2439 | 별찍기 - 2         | [문제주소](https://www.acmicpc.net/problem/2439)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Baekjoon/src/step3/Star2.java) |
 
 
 
