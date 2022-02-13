@@ -11,7 +11,7 @@ public class FindingKim {
 	* URL: https://programmers.co.kr/learn/courses/30/lessons/12919
 	*
 	* COMMENT:
-	* for 문을 이용하여 별찍기
+	* for 문을 이용하여 Kim 찾기
 	**/
 	
 	// import java.util.Arrays;
