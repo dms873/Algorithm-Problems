@@ -1,0 +1,16 @@
+ /**
+	* ABOUT
+	*
+	* DATE: 2022-02-24
+	* AUTHOR: dms873
+	*
+	* URL: https://programmers.co.kr/learn/courses/30/lessons/59034
+	*
+	* COMMENT: 모든 레코드 조회 후 ANIMAL_ID순으로 조회
+	* 
+	**/
+  
+SELECT * 
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID;
+
