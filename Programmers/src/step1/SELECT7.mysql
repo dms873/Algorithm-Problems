@@ -1,0 +1,17 @@
+/**
+	* ABOUT
+	*
+	* DATE: 2022-03-04
+	* AUTHOR: dms873
+	*
+	* URL: https://programmers.co.kr/learn/courses/30/lessons/59405
+	*
+	* COMMENT: 가장 먼저 들어온 동물의 이름을 조회
+	* 
+	**/
+  
+SELECT NAME
+FROM (SELECT *
+      FROM ANIMAL_INS
+      ORDER BY DATETIME)
+WHERE ROWNUM < 2;
