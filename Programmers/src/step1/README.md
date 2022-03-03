@@ -20,6 +20,7 @@
 | 어린 동물 찾기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SELECT4.mysql) |
 | 동물의 아이디와 이름 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SELECT5.mysql) |
 | 여러 기준으로 정렬하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59404)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SELECT6.mysql) |
+| 상위 n개 레코드 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59405)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SELECT7.mysql) |
 | 이름이 없는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59039)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/ISNULL.mysql) |
 | 이름이 있는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59407)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/ISNULL2.mysql) |
 
