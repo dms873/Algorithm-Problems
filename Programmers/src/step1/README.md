@@ -25,6 +25,7 @@
 | 이름이 있는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59407)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/ISNULL2.mysql) |
 | NULL 처리하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59410)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/ISNULL3.mysql) |
 | 최댓값 구하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SUM%2C%20MAX%2C%20MIN.mysql) |
+| 최솟값 구하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59038)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SUM%2C%20MAX%2C%20MIN2.mysql) |
 
 
 
