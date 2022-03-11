@@ -28,6 +28,7 @@
 | 최솟값 구하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59038)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SUM%2C%20MAX%2C%20MIN2.mysql) |
 | 동물 수 구하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59406)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SUM%2C%20MAX%2C%20MIN3.mysql) |
 | 중복 제거하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59408)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/SUM%2C%20MAX%2C%20MIN4.mysql) |
+| 루시와 엘라 찾기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59046)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date.mysql) |
 
 
 
