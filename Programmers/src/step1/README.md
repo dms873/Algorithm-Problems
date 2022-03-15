@@ -31,6 +31,7 @@
 | 루시와 엘라 찾기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59046)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date.mysql) |
 | 이름에 el이 들어가는 동물 찾기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59047)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date2.mysql) |
 | 중성화 여부 파악하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59409)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date3.mysql) |
+| DATETIME에서 DATE로 형 변환 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59414)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date4.mysql) |
 
 
 
