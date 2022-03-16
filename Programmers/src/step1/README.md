@@ -32,6 +32,7 @@
 | 이름에 el이 들어가는 동물 찾기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59047)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date2.mysql) |
 | 중성화 여부 파악하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59409)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date3.mysql) |
 | DATETIME에서 DATE로 형 변환 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59414)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/String%2C%20Date4.mysql) |
+| 고양이와 개는 몇 마리 있을까 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59040)  | [Oracle](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/GROUP%20BY.mysql) |
 
 
 
