@@ -1,0 +1,17 @@
+/**
+	* ABOUT
+	*
+	* DATE: 2022-03-23
+	* AUTHOR: dms873
+	*
+	* URL: https://programmers.co.kr/learn/courses/30/lessons/59412
+	*
+	* COMMENT:  09:00부터 19:59까지, 각 시간대별로 입양이 몇 건이나 발생했는지 조회(시간대 순으로 정렬)
+	* 
+	**/
+  
+SELECT TO_CHAR(DATETIME, 'HH24') HOUR, COUNT(*) COUNT 
+FROM ANIMAL_OUTS
+WHERE TO_CHAR(DATETIME, 'HH24') BETWEEN 9 AND 19
+GROUP BY TO_CHAR(DATETIME, 'HH24')
+ORDER BY TO_CHAR(DATETIME, 'HH24');
