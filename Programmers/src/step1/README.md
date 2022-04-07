@@ -8,6 +8,7 @@
 | 문자열을 정수로 바꾸기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12925)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/StringInt.java) | [JavaScript](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js) |
 | 가운데 글자 가져오기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12903)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/MiddleString.java) | [JavaScript](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.js) |
 | 짝수와 홀수 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12937)  | [Java](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/EvenOdd.js) | [JavaScript](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.js) |
+| 같은 숫자는 싫어 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12906)  | Java | [JavaScript](https://github.com/dms873/Algorithm-Problems/blob/master/Programmers/src/step1/%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4.js) |
 
 ---
 
